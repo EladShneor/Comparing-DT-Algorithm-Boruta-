@@ -1,8 +1,8 @@
-#Teen Smartphone Addiction –Comparing DT Models & Feature Selection
+# Teen Smartphone Addiction –Comparing DT Models & Feature Selection
 
 This notebook explores a dataset related to teenage smartphone addiction. The main goal is to predict a target variable (e.g., addiction score) using machine learning models with a strong focus on **feature selection** and **boosting algorithms**.
 
-###Key Steps in This Notebook:
+### Key Steps in This Notebook:
 
 1. **Data Exploration**  
    We inspect the structure of the training dataset, including shape, column names, and data types.
@@ -21,7 +21,7 @@ This notebook explores a dataset related to teenage smartphone addiction. The ma
 
 ---
 
-###Requirements
+### Requirements
 
 - Python 3.x  
 - pandas, numpy  
@@ -32,7 +32,7 @@ This notebook explores a dataset related to teenage smartphone addiction. The ma
 
 ---
 
-###Output
+### Output
 
 By the end of this notebook, we identify the most important features contributing to smartphone addiction and assess how feature selection impacts the predictive power of tree-based boosting models.
 
